@@ -1,5 +1,3 @@
-#! /bin/python3 
-
 from PyQt5 import QtCore, QtGui, QtWidgets
 import core
 import subprocess
