@@ -9,6 +9,3 @@ class Rec:
         while True:
             myScreenshot = pyautogui.screenshot()
             myScreenshot.save(f'{self.filename}')
-
-
-    
